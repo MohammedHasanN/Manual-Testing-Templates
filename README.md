@@ -1,6 +1,6 @@
-# Test Cases and Software Manual Testing Templates.
+# Software Manual Testing Templates.
 
-In the manual testing process, test cases are carried out by hand without the aid of an automated tool. The process can be quite challenging at times, so I've developed a repository of manual testing ideas and templates based on real-world experience that can be applied in various contexts.
+In the manual testing process, creating bugs are carried out by hand without the aid of an automated tool. The process can be quite challenging at times, so I've developed a repository of manual testing ideas and templates based on real-world experience that can be applied in various contexts.
 
 ![Intro](https://user-images.githubusercontent.com/121660086/211140364-5ce5ecdf-24a4-469d-9262-46a2c8437f62.png)
 
@@ -12,11 +12,8 @@ Writing test cases is a laborious task that consumes the majority of software te
 
 
 ## :bulb: The following additional sample test cases and templates:
-- Sample Test cases for some common functionality
-- Model Test cases for Test Reports.
-- General Test Cases for Login Functions.
-- Checklist for test planning.
-- A sample of a bug.
+- Bug
+- Test case
 
 ## :question: Need Help?
 Write to me at hasanazeerkhan@gmail.com to discuss your concerns.
