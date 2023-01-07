@@ -1,0 +1,29 @@
+Summary
+
+
+Version of involved tools
+
+Pre-condition
+
+
+Steps to Reproduce
+The valid steps to reproduce the issues
+
+It is expected that
+
+Priority
+This bug has been reported as 
+
+Severity
+Can the customer fulfil his task (with the workaround)?
+
+Workaround
+If there is a way to work around the problem, place that information here.
+
+Troubleshooting and logs
+Any steps to fix it
+
+Tested device specifications
+Processor - Intel(R) Core (TM) i7-8665U CPU@1.90GHz 2.11 GHz
+Installed RAM - 16.0 GB (15.8 GB usable)
+System type - 64-bit operating system, x64-based processor
