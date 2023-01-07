@@ -1,4 +1,8 @@
-# TestCases and Software Manual Testing Templates.
+# Test Cases and Software Manual Testing Templates.
+
+![Intro](https://user-images.githubusercontent.com/121660086/211140364-5ce5ecdf-24a4-469d-9262-46a2c8437f62.png)
+
+
 In the manual testing process, test cases are carried out by hand without the aid of an automated tool. The process can be quite challenging at times, so I've developed a repository of manual testing ideas and templates based on real-world experience that can be applied in various contexts.
 
 ## :loudspeaker: What this is all about?
