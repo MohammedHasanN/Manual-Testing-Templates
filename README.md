@@ -1,10 +1,8 @@
-[[_TOC_]]
-
 # TestCases and Software Manual Testing Templates.
-Repository where various manual testing ideas based on real-world experience were added
+In the manual testing process, test cases are carried out by hand without the aid of an automated tool. The process can be quite challenging at times, so I've developed a repository of manual testing ideas and templates based on real-world experience that can be applied in various contexts.
 
 ## :loudspeaker: What this is all about?
-To help manual testers write manual test cases faster, this repository includes a sample set of test cases. Additionally, it contains templates for test planning and bug bash.
+To help manual testers write manual test cases faster, this repository includes a sample set of test cases. Additionally, it contains templates for test planning and bug templates.
 
 ## 🎯 Why was this project started?
 Writing test cases is a laborious task that consumes the majority of software testing time. Therefore, I made generic test cases for the functionality that is most frequently used in software testing so that anyone can download a copy and use it immediately in their projects and save the time required to write the generic test cases.
@@ -20,4 +18,4 @@ Writing test cases is a laborious task that consumes the majority of software te
 ## :question: Need Help?
 Write to me at hasanazeerkhan@gmail.com to discuss your concerns.
 
-## :rocket: Don't forget to give the project a star to increase its popularity. 
+## :rocket: Support the project by giving it :star: to increase its popularity. 
